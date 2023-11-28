@@ -2,10 +2,10 @@
 Eye-Controlled Mouse is a Python-based project that enables users to control their computer mouse using eye movements and blinks. 
 
 # Features
-Eye Tracking: Precise tracking of the user's eyes using the Mediapipe library.
-Cursor Movement: Translate eye movements into smooth and responsive cursor movements on the screen.
-Blink Detection: Recognize left-eye blinks as a trigger for left-click actions.
-User-Friendly: Intuitive and easy-to-use interface for a seamless user experience.
+1. Eye Tracking: Precise tracking of the user's eyes using the Mediapipe library.
+2. Cursor Movement: Translate eye movements into smooth and responsive cursor movements on the screen.
+3. Blink Detection: Recognize left-eye blinks as a trigger for left-click actions.
+4. User-Friendly: Intuitive and easy-to-use interface for a seamless user experience.
 
 # Dependencies
 1. Mediapipe: A library for building perception pipelines.
